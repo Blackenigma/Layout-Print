@@ -1,8 +1,11 @@
-# React + Vite
+# Project Title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This project features a logo that serves as a printing option. By clicking the logo, the entire webpage transforms into a printable format. You can also save it as a PDF document for easy access.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to Use
+
+1. Click the logo on the webpage.
+2. The page will convert into a printable file.
+3. Save the file in PDF format for your records.
