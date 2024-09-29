@@ -15,16 +15,18 @@ export default function Print() {
              placeholder="Subject Name"
              className="my-5 rounded-md focus:outline-none bg-slate-950 text-center w-full h-14 text-white"
             />
+            <div className="flex items-center w-full">
             <input 
              type="text" 
              placeholder="Select Term"
-             className="rounded-md focus:outline-none bg-slate-950 text-center w-[205px] h-14 text-white mx-2"
+             className="rounded-md focus:outline-none bg-slate-950 text-center w-1/2 h-14 text-white mx-2"
             />
             <input 
              type="text" 
              placeholder="S.Y"
-             className="rounded-md focus:outline-none bg-slate-950 text-center w-[205px] h-14 text-white"
+             className="rounded-md focus:outline-none bg-slate-950 text-center w-1/2 h-14 text-white"
             />
+            </div>
             <input 
              type="text" 
              placeholder="Instruction"
